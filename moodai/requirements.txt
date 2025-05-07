@@ -1,0 +1,10 @@
+flask
+flask-socketio
+tensorflow
+opencv-python
+pillow
+numpy
+python-engineio
+python-socketio
+eventlet
+gunicorn
